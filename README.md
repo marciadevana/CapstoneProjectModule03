@@ -58,3 +58,8 @@ Peningkatan potensial di masa depan meliputi:
 3. Buka notebook Jupyter untuk mengeksplorasi analisis:
    ```bash
    jupyter notebook Capstone_Project_Modul3_Marcia.ipynb
+
+# Kontak
+
+Untuk pertanyaan atau umpan balik, silakan hubungi saya di marciadevana20@gmail.com
+
